@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="incometype">
+        <item>---请选择---</item>
+        <item>学习-奖金</item>
+        <item>补助-奖金</item>
+        <item>比赛-奖励</item>
+        <item>业余-兼职</item>
+        <item>基本-工资</item>
+        <item>福利-分红</item>
+        <item>加班-津贴</item>
+        <item>其他</item>
+    </array>
+    <array name="paytype">
+        <item>---请选择---</item>
+        <item>电影-娱乐</item>
+        <item>美食-畅饮</item>
+        <item>欢乐-购物</item>
+        <item>手机-充值</item>
+        <item>交通-出行</item>
+        <item>教育-培训</item>
+        <item>社交-礼仪</item>
+        <item>生活-日用</item>
+        <item>其他</item>
+    </array>
+</resources>
